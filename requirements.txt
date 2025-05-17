@@ -5,3 +5,4 @@ ultralytics==8.0.228
 opencv-python==4.9.0.80
 Werkzeug==2.3.7
 itsdangerous==2.1.2
+numpy<2.0
