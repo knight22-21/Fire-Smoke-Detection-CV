@@ -1,0 +1,10 @@
+
+train: C:\Users\Krish\cv\Fire-Smoke-Detector\dataset\train
+val: C:\Users\Krish\cv\Fire-Smoke-Detector\dataset\val
+test: C:\Users\Krish\cv\Fire-Smoke-Detector\dataset\test
+
+nc: 2
+
+names:
+  0: smoke
+  1: fire
