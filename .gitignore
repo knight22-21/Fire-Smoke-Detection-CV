@@ -33,6 +33,7 @@ VENV/
 .env
 fire_smoke_detector/
 fire_smoke.yaml
+uploads/
 
 # PyInstaller
 *.manifest
